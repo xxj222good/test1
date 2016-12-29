@@ -54,5 +54,6 @@ int main()
 
 	cout << minDiff;
 
+	cout << "my name" << endl;
 	return 0;
 }
